@@ -24,7 +24,7 @@ public class TicTacToe implements Runnable {
 	private int port = 22222;
 	private Scanner scanner = new Scanner(System.in);
 	private JFrame frame;
-	private final int WIDTH = 506;
+	private final int WIDTH = 507;
 	private final int HEIGHT = 527;
 	private Thread thread;
 	private Painter painter;
